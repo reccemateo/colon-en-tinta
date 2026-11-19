@@ -14,6 +14,11 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/pLdkjJWF/Chacarita-Juniors.png"
   },
+  "estudiantes_lp": {
+    nombre: "Estudiantes (La Plata)",
+    pais: "Argentina",
+    escudo: "https://i.postimg.cc/L6yKJZJK/Estudiantes.png"
+  },
   "racing": {
     nombre: "Racing Club",
     pais: "Argentina",
