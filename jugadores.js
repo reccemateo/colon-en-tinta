@@ -57,7 +57,6 @@ window.rsJugadores = [
   fechaNacimiento: "13/08/1976",
   lugarNacimiento: "Santa Isabel, Santa Fe, Argentina",
   posicion: "Arquero",
-  posicionEspecifica: "Arquero",
   periodos: [[2002, 2008]],
   clubDebut: "rosario_central",
   partidos: 180,
