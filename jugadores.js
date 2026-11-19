@@ -16,8 +16,8 @@ window.rsJugadores = [
   partidos: 35,
   goles: 2,
   trayectoria: [
-    ["atletico_nacional", "2019-2022"],
-    ["colon", "2022-2023"]
+    ["Atlético Nacional", "2019-2022"],
+    ["Colón", "2022-2023"]
   ]
 },
 
@@ -37,9 +37,9 @@ window.rsJugadores = [
   partidos: 72,
   goles: 30,
   trayectoria: [
-    ["san_lorenzo", ""],
+    ["san_lorenzo", "2011-2012"],
     ["colon", "2012-2013"],
-    ["union_la_calera", ""],
+    ["union_lacalera", ""],
     ["colon", "2025"]
   ]
 },
@@ -62,7 +62,7 @@ window.rsJugadores = [
   trayectoria: [
     ["colon", "2019-2023"],
     ["inter_miami", "2023-2024"],
-    ["san_lorenzo", "1982"],
+    ["estudiantes_lp", "2025-"],
     ["san_lorenzo", "2026-act."]
   ]
 },
