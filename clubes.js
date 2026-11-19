@@ -24,6 +24,11 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/gJvCXZCL/General-Lamadrid.png"
   },
+  "nacional": {
+    nombre: "Nacional",
+    pais: "Uruguay",
+    escudo: "https://i.postimg.cc/5t9gqFQ0/Nacional-URU.png"
+  },
   "racing": {
     nombre: "Racing Club",
     pais: "Argentina",
