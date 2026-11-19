@@ -9,7 +9,7 @@ window.rsBanderas = {
       "bolivia": "https://i.postimg.cc/BnjQ8mMD/Bolivia.webp",
       "ecuador": "",
       "venezuela": "",
-      "mexico": "",
+      "mexico": "https://i.postimg.cc/hGMCH0R2/Mexico.png",
       "espana": "",
       "italia": "",
       "francia": "",
