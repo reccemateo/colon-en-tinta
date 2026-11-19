@@ -44,6 +44,11 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/TYBf3DLx/Racing.png"
   },
+  "rosario_central": {
+  nombre: "Rosario Central",
+  pais: "Argentina",
+  escudo: "https://i.postimg.cc/GthTfzS5/Rosario-Central.png"
+  },
   "san_lorenzo": {
     nombre: "San Lorenzo",
     pais: "Argentina",
