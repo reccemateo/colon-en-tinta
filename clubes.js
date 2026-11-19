@@ -44,6 +44,11 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/L6jgR25P/San-Lorenzo.png"
   },
+  "toluca_mex": {
+    nombre: "Toluca",
+    pais: "México",
+    escudo: "https://i.postimg.cc/hts6Bn9L/Toluca-MEX.png"
+  },
   "union_lacalera": {
     nombre: "Unión La Calera",
     pais: "Chile",
