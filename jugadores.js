@@ -16,8 +16,8 @@ window.rsJugadores = [
   partidos: 35,
   goles: 2,
   trayectoria: [
-    ["Atlético Nacional", "2019-2022"],
-    ["Colón", "2022-2023"]
+    ["atletico_nacional", "2019-2022"],
+    ["colon", "2022-2023"]
   ]
 },
 
