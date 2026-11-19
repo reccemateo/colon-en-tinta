@@ -19,6 +19,11 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/L6yKJZJK/Estudiantes.png"
   },
+  "general_lamadrid": {
+    nombre: "General Lamadrid",
+    pais: "Argentina",
+    escudo: "https://i.postimg.cc/gJvCXZCL/General-Lamadrid.png"
+  },
   "racing": {
     nombre: "Racing Club",
     pais: "Argentina",
