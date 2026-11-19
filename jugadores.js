@@ -39,6 +39,7 @@ window.rsJugadores = [
   trayectoria: [
     ["san_lorenzo", "2011-2012"],
     ["colon", "2012-2013"],
+    ["toluca_mex", "2020-2021"],
     ["leon_mex", "2021-2022"],
     ["nacional", "2022-2023"],
     ["union_lacalera", "2024"],
