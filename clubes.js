@@ -12,7 +12,7 @@ window.rsClubes = {
   "chacarita_juniors": {
     nombre: "Chacarita Juniors",
     pais: "Argentina",
-    escudo: ""
+    escudo: "https://i.postimg.cc/pLdkjJWF/Chacarita-Juniors.png"
   },
   "racing": {
     nombre: "Racing Club",
