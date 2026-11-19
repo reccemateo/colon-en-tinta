@@ -29,7 +29,7 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/L6jgR25P/San-Lorenzo.png"
   },
-  "union_la_calera": {
+  "union_lacalera": {
     nombre: "Unión La Calera",
     pais: "Chile",
     escudo: "https://i.postimg.cc/CLHCCqWn/Union-La-Calera-CHI.png"
