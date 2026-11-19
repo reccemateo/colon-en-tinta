@@ -14,6 +14,11 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/pLdkjJWF/Chacarita-Juniors.png"
   },
+  "cortulua": {
+    nombre: "Cortuluá",
+    pais: "Colombia",
+    escudo: "https://i.postimg.cc/hvbv4h4j/Cortulua-COL.png"
+  },
   "estudiantes_lp": {
     nombre: "Estudiantes (La Plata)",
     pais: "Argentina",
