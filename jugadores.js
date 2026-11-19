@@ -33,7 +33,7 @@ window.rsJugadores = [
   posicion: "Delantero",
   posicionEspecifica: "Delantero Centro",
   periodos: [[2012, 2013], [2025, 2025]],
-  clubDebut: "",
+  clubDebut: "general_lamadrid",
   partidos: 72,
   goles: 30,
   trayectoria: [
