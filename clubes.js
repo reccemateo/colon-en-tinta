@@ -24,6 +24,11 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/gJvCXZCL/General-Lamadrid.png"
   },
+  "leon_mex": {
+    nombre: "León",
+    pais: "México",
+    escudo: "https://i.postimg.cc/Tw74WJkW/Leon-MEX.png"
+  },
   "nacional": {
     nombre: "Nacional",
     pais: "Uruguay",
