@@ -24,6 +24,11 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/gJvCXZCL/General-Lamadrid.png"
   },
+  "inter_miami": {
+  nombre: "Inter Miami C.F.",
+  pais: "Estados Unidos",
+  escudo: "https://i.postimg.cc/4dWRq52P/Inter-Miami-USA.png"
+  },
   "leon_mex": {
     nombre: "León",
     pais: "México",
