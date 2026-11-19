@@ -12,7 +12,7 @@ window.rsJugadores = [
   posicion: "Volante",
   posicionEspecifica: "Mediocampista Central",
   periodos: [[2022, 2023]],
-  clubDebut: "",
+  clubDebut: "cortulua",
   partidos: 35,
   goles: 2,
   trayectoria: [
