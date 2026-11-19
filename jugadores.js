@@ -48,6 +48,34 @@ window.rsJugadores = [
 },
 
   {
+  apellido: "Tombolini",
+  nombre: "Laureano",
+  apodo: "Tombo",
+  foto: "https://i.postimg.cc/DzKrB4Wd/Tombolini-Laureano.webp",
+  nombreCompleto: "Laureano Martín Tombolini",
+  nacionalidad: "Argentina",
+  fechaNacimiento: "13/08/1976",
+  lugarNacimiento: "Santa Isabel, Santa Fe, Argentina",
+  posicion: "Arquero",
+  posicionEspecifica: "Arquero",
+  periodos: [[2002, 2008]],
+  clubDebut: "rosario_central",
+  partidos: 180,
+  goles: 0,
+  trayectoria: [
+    ["rosario_central", "1998-2002"],
+    ["colon", "2002-2008"],
+    ["instituto", "2008-2009"],
+    ["olimpo", "2009-2012"],
+    ["sol_de_america_formosa", "2012-2013"],
+    ["juventud_unida_san_luis", "2013-2015"],
+    ["mitre_santiago_del_estero", "2015-2016"],
+    ["juventud_unida_san_luis", "2016-2018"],
+    ["juventud_unida_santa_isabel", "2018-2021"]
+  ]
+},
+
+  {
   apellido: "Farías",
   nombre: "Facundo",
   apodo: "La Joya",
