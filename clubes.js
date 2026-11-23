@@ -24,6 +24,11 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/TwjS0q4B/Deportivo-Espanol.png"
   },
+  "deportivo_cuenca": {
+    nombre: "Deportivo Cuenca",
+    pais: "Ecuador",
+    escudo: "https://i.postimg.cc/y6JdnLXF/Deportivo-Cuenca-ECU.png"
+  },
   "estudiantes_lp": {
     nombre: "Estudiantes (La Plata)",
     pais: "Argentina",
