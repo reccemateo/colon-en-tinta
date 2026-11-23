@@ -41,6 +41,7 @@ window.rsJugadores = [
     ["deportivo_espanol", "1991-1996"],
     ["colon", "1996-1999"],
     ["estudiantes_lp", "1999-2002"]
+    ["deportivo_cuenca", "2002-2003"],
   ]
 },
 
