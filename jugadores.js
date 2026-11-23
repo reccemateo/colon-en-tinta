@@ -22,6 +22,29 @@ window.rsJugadores = [
 },
 
   {
+  apellido: "Agoglia",
+  nombre: "Nelson Omar",
+  apodo: "Piscuí",
+  foto: "https://i.postimg.cc/qMqnxBt1/Agoglia-Nelson.webp",
+  nombreCompleto: "Nelson Omar Agoglia",
+  nacionalidad: "Argentina",
+  fechaNacimiento: "10/05/1973",
+  lugarNacimiento: "Capital Federal, Buenos Aires, Argentina",
+  posicion: "Volante",
+  posicionEspecifica: "Mediocampista Ofensivo",
+  periodos: [[1996, 1999]],
+  clubDebut: "deportivo_espanol",
+  procedencias: ["deportivo_espanol"],
+  partidos: 97,
+  goles: 7,
+  trayectoria: [
+    ["deportivo_espanol", "1991-1996"],
+    ["colon", "1996-1999"],
+    ["estudiantes_lp", "1999-2002"]
+  ]
+},
+
+  {
   apellido: "Gigliotti",
   nombre: "Emmanuel",
   apodo: "Puma",
