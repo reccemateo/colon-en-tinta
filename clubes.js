@@ -19,6 +19,11 @@ window.rsClubes = {
     pais: "Colombia",
     escudo: "https://i.postimg.cc/hvbv4h4j/Cortulua-COL.png"
   },
+  "Deportivo Español": {
+    nombre: "Deportivo Español",
+    pais: "Argentina",
+    escudo: "https://i.postimg.cc/TwjS0q4B/Deportivo-Espanol.png"
+  },
   "estudiantes_lp": {
     nombre: "Estudiantes (La Plata)",
     pais: "Argentina",
