@@ -25,7 +25,7 @@ window.rsJugadores = [
   apellido: "Agoglia",
   nombre: "Nelson Omar",
   apodo: "Piscuí",
-  foto: "https://i.postimg.cc/qMqnxBt1/Agoglia-Nelson.webp",
+  foto: "https://i.postimg.cc/TwLkH83D/Agoglia-Nelson.jpg",
   nombreCompleto: "Nelson Omar Agoglia",
   nacionalidad: "Argentina",
   fechaNacimiento: "10/05/1973",
