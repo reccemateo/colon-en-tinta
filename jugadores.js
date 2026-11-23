@@ -33,12 +33,12 @@ window.rsJugadores = [
   posicion: "Volante",
   posicionEspecifica: "Mediocampista Ofensivo",
   periodos: [[1996, 1999]],
-  clubDebut: "deportivo_espanol",
-  procedencias: ["deportivo_espanol"],
+  clubDebut: "Deportivo Español",
+  procedencias: ["Deportivo Español"],
   partidos: 97,
   goles: 7,
   trayectoria: [
-    ["deportivo_espanol", "1991-1996"],
+    ["Deportivo Español", "1991-1996"],
     ["colon", "1996-1999"],
     ["estudiantes_lp", "1999-2002"]
   ]
