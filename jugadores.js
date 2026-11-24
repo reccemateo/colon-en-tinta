@@ -62,7 +62,7 @@ window.rsJugadores = [
 
    {
     apellido: "Fuertes",
-    nombre: "Esteban",
+    nombre: "Esteban Oscar",
     apodo: "Bichi",
     foto: "https://i.postimg.cc/YqH3RhGx/Fuertes-Esteban-Oscar.jpg",
     nombreCompleto: "Esteban Oscar Fuertes",
