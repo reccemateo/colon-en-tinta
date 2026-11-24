@@ -129,7 +129,7 @@ window.rsJugadores = [
     apellido: "Rodríguez",
     nombre: "Luis Miguel",
     apodo: "Pulga",
-    foto: "",
+    foto: "https://i.postimg.cc/52qkLDxZ/Rodriguez-Luis-Miguel.jpg",
     nombreCompleto: "Luis Miguel Rodríguez",
     nacionalidad: "Argentina",
     fechaNacimiento: "01/01/1985",
