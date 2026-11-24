@@ -10,6 +10,11 @@ window.rsClubes = {
 
   /* ===== CLUBES ARGENTINOS ===== */
 
+   "atletico_tucuman": {
+    nombre: "Atlético Tucumán",
+    pais: "Argentina",
+    escudo: "https://i.postimg.cc/Tws3sKfg/Atletico-Tucuman.png"
+  },
   "chacarita_juniors": {
     nombre: "Chacarita Juniors",
     pais: "Argentina",
@@ -30,6 +35,11 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/gJvCXZCL/General-Lamadrid.png"
   },
+  "gimnasia_lp": {
+    nombre: "Gimnasia y Esgrima (La Plata)",
+    pais: "Argentina",
+    escudo: "https://i.postimg.cc/8c6bbMtm/Gy-E-La-Plata.png"
+  },
   "independiente": {
     nombre: "Independiente",
     pais: "Argentina",
@@ -39,6 +49,11 @@ window.rsClubes = {
     nombre: "Racing Club",
     pais: "Argentina",
     escudo: "https://i.postimg.cc/TYBf3DLx/Racing.png"
+  },
+  "racing_cba": {
+    nombre: "Racing (Córdoba)",
+    pais: "Argentina",
+    escudo: "https://i.postimg.cc/h4X7yNd6/Racing-(Cordoba).png"
   },
   "river_plate": {
     nombre: "River Plate",
