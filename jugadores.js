@@ -49,7 +49,7 @@ window.rsJugadores = [
   apellido: "Gigliotti",
   nombre: "Emmanuel",
   apodo: "Puma",
-  foto: "https://i.postimg.cc/nzt1xG7b/Gigliotti-Emmanuel.jpg",
+  foto: "https://i.postimg.cc/8Cs6pV3n/Gigliotti-Emmanuel.jpg",
   nombreCompleto: "Emmanuel Gigliotti",
   nacionalidad: "Argentina",
   fechaNacimiento: "20/05/1987",
