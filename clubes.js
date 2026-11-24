@@ -36,7 +36,7 @@ window.rsClubes = {
     escudo: "https://i.postimg.cc/gJvCXZCL/General-Lamadrid.png"
   },
   "gimnasia_lp": {
-    nombre: "Gimnasia (La Plata)",
+    nombre: "Gimnasia y Esgrima (La Plata)",
     pais: "Argentina",
     escudo: "https://i.postimg.cc/8c6bbMtm/Gy-E-La-Plata.png"
   },
