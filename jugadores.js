@@ -60,6 +60,30 @@ window.rsJugadores = [
     goles: 16
   },
 
+   {
+    apellido: "Fuertes",
+    nombre: "Esteban",
+    apodo: "Bichi",
+    foto: "https://i.postimg.cc/YqH3RhGx/Fuertes-Esteban-Oscar.jpg",
+    nombreCompleto: "Esteban Oscar Fuertes",
+    nacionalidad: "Argentina",
+    fechaNacimiento: "26/12/1972",
+    lugarNacimiento: "Coronel Dorrego, Buenos Aires, Argentina",
+    posicion: "Delantero",
+    posicionEspecifica: "Delantero Centro",
+    periodos: [[1997, 1999], [2000, 2001], [2003, 2006], [2008, 2012]],
+    clubDebut: "independiente",
+    anioDebut: 1991,
+    procedencias: [
+      ["racing", "1996-1997"],
+      ["derby_county", "1999"],
+      ["river_plate", "2002-2003"],
+      ["ucatolica_chi", "2007"]
+    ],
+    partidos: 302,
+    goles: 144
+  },
+  
   {
     apellido: "Gigliotti",
     nombre: "Emmanuel",
