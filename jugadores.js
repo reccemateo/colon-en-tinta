@@ -114,7 +114,7 @@ window.rsJugadores = [
     posicionEspecifica: "",
     periodos: [[2002, 2008]],
     clubDebut: "rosario_central",
-    anioDebut: null,
+    anioDebut: 1998,
     procedencias: [["rosario_central", "1998-2002"]],
     partidos: 180,
     goles: 0
