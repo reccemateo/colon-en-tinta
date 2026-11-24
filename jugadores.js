@@ -13,7 +13,7 @@ window.rsJugadores = [
     posicionEspecifica: "Mediocampista Ofensivo",
     periodos: [[1996, 1999]],
     clubDebut: "deportivo_espanol",
-    anioDebut: null,
+    anioDebut: 1991,
     procedencias: [["deportivo_espanol", "1991-1996"]],
     partidos: 97,
     goles: 7
@@ -95,7 +95,7 @@ window.rsJugadores = [
     posicionEspecifica: "Mediocampista Central",
     periodos: [[2022, 2023]],
     clubDebut: "cortulua",
-    anioDebut: null,
+    anioDebut: 2008,
     procedencias: [["atletico_nacional", "2019-2022"]],
     partidos: 35,
     goles: 2
