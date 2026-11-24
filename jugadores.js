@@ -121,5 +121,3 @@ window.rsJugadores = [
   }
 
 ];
-
-];
