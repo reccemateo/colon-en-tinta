@@ -11,7 +11,8 @@ window.rsBanderas = {
       "venezuela": "",
       "mexico": "https://i.postimg.cc/hGMCH0R2/Mexico.png",
       "espana": "",
-      "italia": "",
+ "inglaterra": "https://i.postimg.cc/xCpwHLTw/Inglaterra.webp",
+      "italia": "https://i.postimg.cc/L8Frz92H/Italia.webp",
       "francia": "",
       "alemania": "",
       "estados unidos": "https://i.postimg.cc/HnFR1Pwx/Estados-Unidos.jpg"
