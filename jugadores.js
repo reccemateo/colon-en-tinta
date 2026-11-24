@@ -45,7 +45,7 @@ window.rsJugadores = [
     apellido: "Bastía",
     nombre: "Adrián",
     apodo: "Polaco",
-    foto: "",
+    foto: "https://i.postimg.cc/T3LNHhJT/Bastia-Adrian.jpg",
     nombreCompleto: "Adrián Jesús Bastía",
     nacionalidad: "Argentina",
     fechaNacimiento: "20/12/1978",
