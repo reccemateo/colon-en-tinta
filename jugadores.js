@@ -42,6 +42,28 @@ window.rsJugadores = [
   },
 
   {
+    apellido: "Bastía",
+    nombre: "Adrián",
+    apodo: "Polaco",
+    foto: "",
+    nombreCompleto: "Adrián Jesús Bastía",
+    nacionalidad: "Argentina",
+    fechaNacimiento: "20/12/1978",
+    lugarNacimiento: "Gobernador Crespo, Santa Fe, Argentina",
+    posicion: "Volante",
+    posicionEspecifica: "Mediocampista Central",
+    periodos: [[2011, 2013], [2016, 2019]],
+    clubDebut: "racing",
+    anioDebut: 1998,
+    procedencias: [
+      ["asteras_tripolis", "2008-2011"],
+      ["atletico_rafaela", "2013-2015"]
+    ],
+    partidos: 124,
+    goles: 1
+  },
+
+  {
     apellido: "Farías",
     nombre: "Facundo",
     apodo: "La Joya",
