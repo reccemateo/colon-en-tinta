@@ -34,9 +34,9 @@ window.rsJugadores = [
     clubDebut: "colon",
     anioDebut: 1971,
     procedencias: [
-      ["colon", ""],
-      ["racing", "1979"]
-    ],
+  ["inferiores", ""],
+  ["racing", "1979"]
+],
     partidos: 284,
     goles: 3
   },
@@ -55,7 +55,7 @@ window.rsJugadores = [
     periodos: [[2019, 2023]],
     clubDebut: "colon",
     anioDebut: 2019,
-    procedencias: [["colon", ""]],
+    procedencias: [["inferiores", ""]],
     partidos: 94,
     goles: 16
   },
