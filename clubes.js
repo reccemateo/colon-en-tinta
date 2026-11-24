@@ -30,10 +30,20 @@ window.rsClubes = {
     pais: "Argentina",
     escudo: "https://i.postimg.cc/gJvCXZCL/General-Lamadrid.png"
   },
+  "independiente": {
+    nombre: "Independiente",
+    pais: "Argentina",
+    escudo: "https://i.postimg.cc/bwvCWCYV/Independiente.png"
+  },
   "racing": {
     nombre: "Racing Club",
     pais: "Argentina",
     escudo: "https://i.postimg.cc/TYBf3DLx/Racing.png"
+  },
+  "river_plate": {
+    nombre: "River Plate",
+    pais: "Argentina",
+    escudo: "https://i.postimg.cc/sDzDYSfv/River-Plate.png"
   },
   "rosario_central": {
     nombre: "Rosario Central",
@@ -63,6 +73,11 @@ window.rsClubes = {
     pais: "Ecuador",
     escudo: "https://i.postimg.cc/y6JdnLXF/Deportivo-Cuenca-ECU.png"
   },
+  "derby_county": {
+    nombre: "Derby County",
+    pais: "Inglaterra",
+    escudo: "https://i.postimg.cc/HsYMj57V/Derby-County-ING.png"
+  },
   "inter_miami": {
     nombre: "Inter Miami C.F.",
     pais: "Estados Unidos",
@@ -87,6 +102,11 @@ window.rsClubes = {
     nombre: "Unión La Calera",
     pais: "Chile",
     escudo: "https://i.postimg.cc/CLHCCqWn/Union-La-Calera-CHI.png"
+  },
+  "ucatolica_chi": {
+    nombre: "Universidad Católica",
+    pais: "Chile",
+    escudo: "https://i.postimg.cc/8z3fy0Xp/Universidad-Catolica-CHI.png"
   }
 
 };
