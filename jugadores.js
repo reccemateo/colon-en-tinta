@@ -125,6 +125,29 @@ window.rsJugadores = [
     goles: 2
   },
 
+   {
+    apellido: "Rodríguez",
+    nombre: "Luis Miguel",
+    apodo: "Pulga",
+    foto: "",
+    nombreCompleto: "Luis Miguel Rodríguez",
+    nacionalidad: "Argentina",
+    fechaNacimiento: "01/01/1985",
+    lugarNacimiento: "Simoca, Tucumán, Argentina",
+    posicion: "Delantero",
+    posicionEspecifica: "Mediapunta, Segundo Delantero",
+    periodos: [[2019, 2021], [2022, 2022], [2025, 2025]],
+    clubDebut: "racing_cba",
+    anioDebut: 2006,
+    procedencias: [
+      ["atletico_tucuman", "2011-2018"],
+      ["gimnasia_lp", "2021"],
+      ["atletico_tucuman", "2024-2025"]
+    ],
+    partidos: 108,
+    goles: 37
+  },
+
   {
     apellido: "Tombolini",
     nombre: "Laureano",
