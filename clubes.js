@@ -10,7 +10,12 @@ window.rsClubes = {
 
   /* ===== CLUBES ARGENTINOS ===== */
 
-   "atletico_tucuman": {
+  "atletico_rafaela": {
+    nombre: "Atlético de Rafaela",
+    pais: "Argentina",
+    escudo: "https://i.postimg.cc/pddrHbyN/Atletico-de-Rafaela.png"
+  }, 
+  "atletico_tucuman": {
     nombre: "Atlético Tucumán",
     pais: "Argentina",
     escudo: "https://i.postimg.cc/Tws3sKfg/Atletico-Tucuman.png"
@@ -73,6 +78,11 @@ window.rsClubes = {
 
   /* ===== CLUBES INTERNACIONALES ===== */
 
+  "asteras_tripolis": {
+    nombre: "Asteras Trípolis",
+    pais: "Grecia",
+    escudo: "https://i.postimg.cc/L4kpNQ63/Asteras-Tripolis-GRE.png"
+  },
   "atletico_nacional": {
     nombre: "Atlético Nacional",
     pais: "Colombia",
